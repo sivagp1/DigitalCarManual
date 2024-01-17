@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\6fa2815387874720972916492f557f57\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\49b2da6ee96bbad0d7430d0e1942be15\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\853db20fb2dda585360eb7ffede0165b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.8.0.aar\486b6b8a1fc3dd4452f390f583f88faa\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe94ced585bffcf3c7f788a294cc54e6785544ac">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7f52a0a453c656efcf90accc7e40a911\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\2445d16a703e9d7b6554b000891e6e23\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e5743111a904313da6e397511fd7d1de\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\3994bcce2c423eb1790c763b0ab7a530\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8b60b9485af637f37bc9ee786b1a8cb1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1f882c5e6b0258a18ef496a48bf0ba87\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\5d3bf55f31c2d4f9cbad040c15a597a8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c5bc72ad3250d065128d1d7514279be703e57bd0">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\transforms-1\files-1.1\palette-v7-26.1.0.aar\5303a895fa89efcf5a8266da9c420b77\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b614956bf77eb8201754ac10109e52c36691cb3f">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\380b4f4157dc41fc90f1a170a986dd2f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\996cfdd00ff71827cc2ef93ffffc9c7c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.3.1.aar\89a9d925c86610a42d75186a702dacf7\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1a32a39a9fcae3d354a312cdb78c18159fa702e6">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e548f173e3005ca5670d09b19ddaf4fc\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\eb23d17e08e6523fe1518042459c89ef\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\transforms-1\files-1.1\google-signin-1.0.0.aar\03bbd221b02862b3f72478996975dd6e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4942a630e65dfc2352a781c2d3cb39410acd3f7f">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f202afd985f35418444cbfb36a842e2a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.8.0.aar\f4ffc6e41daa294a6cf8924531fe952e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0a23c4daa97697118d96f2b09d1dbaf9ea943d8d">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\843621eace5036086ba1ea20c15aa94c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\fdd979f6ccc31e9bd5fc49fa0f321a5d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\bf4c6363cc9fc4dbcf1fe7461a26c061\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="601ebd8fa027a3dad924ffa1cb14689ced5aa436">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3469fbaea0f2c78fe57cc7d6f1db0339\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\47cd3f908250ca51b155d896e31e8365\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\26a347960eb220528c499e818d7615d7\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\fb0f15a3cfe21a007aa2bfc9fe782a13\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f0f484b1a18c1676984dfea4e572ceffda2f3b78">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\9e9bc17e01b1e6cd96b2e8a79f14d674\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\d0fd269cda7d800ae74009b732484de9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.1\369f9aa48a629b4e92557b37326f42dc3de796e4\MPAndroidChart-v3.0.1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="369f9aa48a629b4e92557b37326f42dc3de796e4">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\132618784b84fb694e3837a678ab9fcb\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MANIKANTA\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\dca77cc2ca745638147eba5de5d2adcb\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6746a3078625563a9eb381920f34e47ccd6bab87">
+        <dex dex="G:\android_stu\Custom-Vison-Service\FoodClassification\AndroidAPP\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+
+</items>

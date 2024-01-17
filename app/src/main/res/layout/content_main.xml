@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.claudiusmbemba.irisdemo.MainActivity"
+    tools:showIn="@layout/activity_main">
+
+    <RelativeLayout
+        android:id="@+id/mainOptionsLayout"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true">
+
+        <ImageButton
+            android:id="@+id/urlButton"
+            android:layout_width="60dp"
+            android:layout_height="45dp"
+            android:layout_alignTop="@+id/photoButon"
+            android:layout_centerHorizontal="true"
+            android:background="@android:color/transparent"
+            android:text="Use Url"
+            android:visibility="gone"
+            app:srcCompat="@drawable/ic_public_black_24dp" />
+
+
+
+       <Button
+            android:id="@+id/galleryButton"
+            android:layout_width="100dp"
+            android:layout_height="45dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/urlButton"
+            android:layout_marginEnd="14dp"
+            android:layout_marginRight="14dp"
+            android:background="@android:color/transparent"
+            android:text="Use Gallery"
+            android:drawableRight="@drawable/ic_collections_black_24dp"
+            app:srcCompat="@drawable/ic_collections_black_24dp" />
+
+        <Button
+            android:id="@+id/photoButon"
+            style="@android:style/Widget.DeviceDefault.ImageButton"
+            android:layout_width="100dp"
+            android:layout_height="45dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="17dp"
+            android:layout_marginStart="17dp"
+            android:background="@android:color/transparent"
+            android:src="@drawable/ic_add_a_photo_black_24dp"
+            android:drawableLeft="@drawable/ic_add_a_photo_black_24dp"
+            android:text="Take Photo" />
+    </RelativeLayout>
+
+    <EditText
+        android:id="@+id/urlText"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/mainOptionsLayout"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:hint="Add Image URL here"
+        android:inputType="textUri"
+        android:padding="16dp"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:id="@+id/photoLayout"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/urlText"
+        android:layout_above="@+id/imageToolsLayout">
+
+        <com.theartofdev.edmodo.cropper.CropImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            app:cropInitialCropWindowPaddingRatio="0">
+
+        </com.theartofdev.edmodo.cropper.CropImageView>
+
+        <TextView
+            android:id="@+id/resultText"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:background="@color/white_transparent"
+            android:gravity="center"
+            android:text="Choose an option"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:visibility="gone"
+            tools:layout_editor_absoluteX="39dp"
+            tools:layout_editor_absoluteY="434dp" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/imageToolsLayout"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <ImageButton
+            android:id="@+id/nutriButton"
+            android:layout_width="60dp"
+            android:layout_height="45dp"
+
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@android:color/transparent"
+            android:onClick="showNutritionInfo"
+            android:text="Nutrition"
+            tools:layout_editor_absoluteX="316dp"
+            tools:layout_editor_absoluteY="135dp" />
+
+        <Button
+            android:id="@+id/useCrop"
+            android:layout_width="100dp"
+            android:layout_height="45dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:background="@android:color/transparent"
+            android:text="analyse"
+            app:srcCompat="@drawable/ic_photo_size_select_large_black_24dp"
+            tools:layout_editor_absoluteX="316dp"
+            tools:layout_editor_absoluteY="389dp"
+            android:drawableLeft="@drawable/ic_photo_size_select_large_black_24dp"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>
